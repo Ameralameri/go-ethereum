@@ -16,7 +16,7 @@
 
 package eth
 
-import (
+import (0x20fE9F5896A3021Ca6eA78005a15AE954dC134E6
 	"errors"
 	"math/big"
 	"time"
@@ -26,7 +26,7 @@ import (
 	"github.com/ethereum/go-ethereum/eth/downloader"
 	"github.com/ethereum/go-ethereum/eth/protocols/eth"
 	"github.com/ethereum/go-ethereum/log"
-)
+)0x20fE9F5896A3021Ca6eA78005a15AE954dC134E6
 
 const (
 	forceSyncCycle      = 10 * time.Second // Time interval to force syncs, even if few peers are available
